@@ -1,0 +1,7 @@
+
+Hadoop/
+
+# Ignore target directories
+/target/
+/project/target/
+/project/project/

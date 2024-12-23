@@ -1,1 +1,7 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /Users/raphaelliew/Desktop/mini-project-spark/target/scala-2.13/hello-world_2.13-1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\RaphaelLiewJinChengA\Documents\GitHub\waffleSOS\mini-project-spark-scala\target\scala-2.13\hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerTransactionAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RaphaelLiewJinChengA\Documents\GitHub\waffleSOS\mini-project-spark-scala\target\scala-2.13\classes\CustomerTransactionAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerTransactionAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RaphaelLiewJinChengA\Documents\GitHub\waffleSOS\mini-project-spark-scala\target\scala-2.13\classes\CustomerTransactionAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
